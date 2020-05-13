@@ -54,6 +54,7 @@
         <h1>Hello</h1>
         <p>This is from dev branch. </p>
         <p>61425c160803596f132aff025fee9a170366f615 </p>
+        <p>12345c160803596f132aff025fee9a170366f615</p>
         <p><a class="btn btn-primary btn-lg" role="button">Learn more &raquo;</a></p>
     </div>
 </div>
